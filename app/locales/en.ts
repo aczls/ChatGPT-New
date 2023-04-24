@@ -5,7 +5,7 @@ const en: LocaleType = {
   WIP: "WIP...",
   Error: {
     Unauthorized:
-      "Unauthorized access, please enter access code in settings page.",
+      "请在左下角设置中填入AIP key使用，点击设置右边的小猫可获取免费的API key，小猫里有具体使用说明。",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} messages`,
